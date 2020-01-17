@@ -1,10 +1,6 @@
-# Presto OraclePlugin
-
-This is a plugin for Presto that allow you to use Oracle Jdbc Connection
-
 ## Connection Configuration
 
-### Create new properties file inside etc/catalog dir:
+## Create new properties file inside etc/catalog dir:
 
 connector.name=oracle
 connection-url=jdbc:oracle:thin:@//host:port/service
